@@ -23,13 +23,13 @@ https://github.com/magento/magento2/tree/2.4-develop/app/code/Magento/Paypal
    ```
    "mvenghaus/magento2-hyva-checkout-paypal-standard": {
       "type": "git",
-      "url": "git@github.com:mvenghaus/magento2-hyva-checkout-paypal-standard.gitt"
+      "url": "git@github.com:mvenghaus/magento2-hyva-checkout-paypal-standard.git"
    }
    ```
 
 2. Install via composer
     ```
-    composer require mvenghaus/magento2-hyva-checkout-paypal-standard"
+    composer require mvenghaus/magento2-hyva-checkout-paypal-standard
     ```
 3. Enable module
     ```
