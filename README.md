@@ -7,7 +7,7 @@ Hyvä Compatibility module for PayPal Standard
 ## Requirements
 
 ```
-"php": "^8.2.0",
+"php": "^8.0",
 "hyva-themes/magento2-default-theme": "^1.2.0",
 "hyva-themes/magento2-hyva-checkout": "^1.0.2",
 ```
